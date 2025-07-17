@@ -1,4 +1,4 @@
 # android_application
 Simple Project
 <br>
-author-sreeja dyaga
+author-sreeja dyaga Srinivas
